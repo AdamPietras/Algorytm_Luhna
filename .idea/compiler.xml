@@ -9,5 +9,6 @@
         <module name="Algorytm_Luhna" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="8" />
   </component>
 </project>
