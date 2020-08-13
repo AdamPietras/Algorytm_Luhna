@@ -18,7 +18,7 @@ class Algorithm {
             tempValue = tempValue * ODD_MULTIPLIER;
 
             if (tempValue > 9) {
-                //e.g. 18 mod 10 + 1 = 9 (sum of 2 digits cannot be higher than 18)
+
                 tempValue = tempValue % 10 + 1;
             }
 
